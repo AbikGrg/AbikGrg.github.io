@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Nerko One', cursive;
+  background-color: #edf5e1;
+}
+
+.page {
+  background-color: #5cdb95;
+  color: #05386b;
+  padding-top: 15%;
+}
+.page p  {
+  text-align: center;
+  margin-right:40%;
+}
+.image{
+    margin-bottom: 30%;
+}
